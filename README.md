@@ -8,10 +8,6 @@
 
 [![Latest Release](https://img.shields.io/badge/Release-v1.1.0-blue.svg?style=for-the-badge)](release/)
 [![Google Play](https://img.shields.io/badge/Google_Play-Install-414141.svg?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.sudhnsh.tithi)
-[![Build Code](https://img.shields.io/badge/Version_Code-8-green.svg?style=for-the-badge)](release/)
-[![Android](https://img.shields.io/badge/Android-8.0%2B%20(API%2026%2B)-brightgreen.svg?style=for-the-badge)](https://developer.android.com)
-[![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4.svg?style=for-the-badge)](https://developer.android.com/jetpack/compose)
-[![Offline First](https://img.shields.io/badge/Calculations-100%25%20Offline-orange.svg?style=for-the-badge)](#privacy--offline-architecture)
 [![Raise an Issue](https://img.shields.io/badge/GitHub-Raise%20an%20Issue-critical.svg?style=for-the-badge&logo=github)](https://github.com/sudhnsh/Tithi-App/issues)
 
 <p align="center">
