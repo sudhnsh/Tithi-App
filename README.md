@@ -222,9 +222,3 @@ Get-FileHash app-nonPlay-release.apk -Algorithm SHA256
 - **Bundled Fonts**: Distributed under the **SIL Open Font License (OFL) v1.1**:
   - *Playfair Display*, *Cinzel*, *Outfit*, *Lora*, *Rozha One*, *Martel*.
   - Licensed for 100% royalty-free commercial, non-commercial, and offline software embedding.
-
----
-
-<div align="center">
-  <sub>Built with devotion and precision for the global Hindu community.</sub>
-</div>
