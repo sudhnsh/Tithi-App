@@ -12,7 +12,6 @@
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.sudhnsh.tithi"><b>Install from Google Play</b></a> •
-  <a href="#-downloads--releases">Download APK</a> •
   <a href="#-play-vs-nonplay-flavors">Play vs NonPlay</a> •
   <a href="#-visual-showcase">Screenshots</a> •
   <a href="#-features">Features</a> •
