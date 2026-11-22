@@ -101,17 +101,13 @@ Tithi is distributed in two distinct flavors to give users complete control over
 
 ### Screen Gallery
 
-| Today & Panchang | Sun & Moon Timings | Muhurats & Choghadiya |
-| :---: | :---: | :---: |
-| <img src="Screenshots/Screenshot_20261008_185115.png" width="270" alt="Today Screen" /> | <img src="Screenshots/Screenshot_20261008_185207.png" width="270" alt="Panchang Detail" /> | <img src="Screenshots/Screenshot_20261008_185219.png" width="270" alt="Sun Moon Timings" /> |
+| Today & Daily Panchang | Monthly Vedic Calendar | Weekly Agenda View | Vedic Chronology & Eras |
+| :---: | :---: | :---: | :---: |
+| <img src="Screenshots/Screenshot_20261008_185115.png" width="240" alt="Today Screen & Daily Panchang" /> | <img src="Screenshots/Screenshot_20261008_185207.png" width="240" alt="Monthly Vedic Calendar Grid" /> | <img src="Screenshots/Screenshot_20261008_185219.png" width="240" alt="Weekly Panchang Agenda View" /> | <img src="Screenshots/Screenshot_20261008_185333.png" width="240" alt="Vedic Chronology and Extended Panchang" /> |
 
-| 3-Day Solar Timeline | Monthly Vedic Calendar | Upcoming Festivals |
-| :---: | :---: | :---: |
-| <img src="Screenshots/Screenshot_20261008_185234.png" width="270" alt="3-Day Timeline" /> | <img src="Screenshots/Screenshot_20261008_185300.png" width="270" alt="Monthly Calendar" /> | <img src="Screenshots/Screenshot_20261008_185333.png" width="270" alt="Festivals List" /> |
-
-| Festival Details & Significance | Settings & Location | Regional Scripts & Numerals |
-| :---: | :---: | :---: |
-| <img src="Screenshots/Screenshot_20261008_185403.png" width="270" alt="Festival Detail" /> | <img src="Screenshots/Screenshot_20261008_185423.png" width="270" alt="Settings Screen" /> | <img src="Screenshots/screenshot_studio_google-play_1080x2400.png" width="270" alt="Regional Numerals" /> |
+| Festival Details & Significance | Panchang Alarms & Reminders | Settings & Customization | Muhurats & Timing Windows |
+| :---: | :---: | :---: | :---: |
+| <img src="Screenshots/Screenshot_20261008_185403.png" width="240" alt="Festival Details and Spiritual Significance" /> | <img src="Screenshots/Screenshot_20261008_185300.png" width="240" alt="Panchang Alarms and Reminders" /> | <img src="Screenshots/Screenshot_20261008_185234.png" width="240" alt="Settings and Regional Customization" /> | <img src="Screenshots/Screenshot_20261008_185423.png" width="240" alt="Auspicious Muhurats and Timing Windows" /> |
 
 ---
 
